@@ -10,7 +10,6 @@ This tutorial is going to teach the basics of Python programming
 ### Installation
 - Downloading `Python v3.10.7`
 - Installing `pip` and `Python` into your system `PATH`
-- Downloading and installing `Visual Studio Code`
 
 ### Programming
 - Printing

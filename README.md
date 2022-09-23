@@ -12,6 +12,7 @@ This tutorial is going to teach the basics of Python programming
 - Installing `pip` and `Python` into your system `PATH`
 
 ### Programming
+- Info
 - Printing
 - Variables
 - Datatypes

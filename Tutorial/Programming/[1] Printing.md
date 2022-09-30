@@ -24,7 +24,7 @@ Python will ignore this also, as it is a `docstring` and not an actual program
 '''
 ```
 
-Here's how:
+Here's how to print to the console:
 In order to print we need to state the `print()` function call. Whatever we put inside the parenthesis (called `arguments` or `args`) will be displayed inside of our program's console.
 ```python
 # This will print "Hello world!" to the console

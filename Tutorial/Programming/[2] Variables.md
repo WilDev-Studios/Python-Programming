@@ -23,3 +23,12 @@ appleCount = 6 # Makes the "appleCount" variable have the value of 6
 
 print(6) # Prints 6
 print(appleCount) # Also prints 6
+
+mySentence = "Hello world. This is a programming tutorial!"
+
+# It would be very tedious to write the contents of 'mySentence' over and over, so we can call it just by it's name
+print(mySentence) # -> "Hello world. This is a programming tutorial!"
+```
+
+Variables are very basic. Next tutorial we will talk about datatypes. These are just different kinds of data.
+Try it out!
